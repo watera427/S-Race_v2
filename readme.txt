@@ -1,4 +1,4 @@
-S_Race_v2 is a simple implementation of a multi-objective racing procesure based on sign test and discrete holm's step-down procedure.
+S_Race_v2 is a simple implementation of a multi-objective racing procesure based on sign test, discrete holm's step-down procedure, and an alpha adapting scheme.
 
 For detail, please refer to the following paper:
 
