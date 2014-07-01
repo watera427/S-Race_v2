@@ -1,6 +1,6 @@
 classdef S_Race_v2 < handle
-% S_Race class
-% S_Race refers to a combination of the sign test, the discrete Holm's procedure 
+% S_Race_v2 class
+% S_Race_v2 refers to a combination of the sign test, the discrete Holm's procedure 
 % and adaptive alpha scheme 
 
 % COPYRIGHT
